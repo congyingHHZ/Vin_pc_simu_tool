@@ -4,6 +4,8 @@ VIN码转换工具
 工具说明：
 此工具用于方便转换生成VIN、VIN的十六进制格式、该VIN的OBD回复命令。  
 
+### 打包命令  
+`pyinstaller -F -w --icon=icon.ico pyqt_test2.py`  
 
 ### 使用方法：  
 ##### 一、已知VIN码，目的为获取VIN的十六进制格式 或 该VIN的OBD回复命令:   
