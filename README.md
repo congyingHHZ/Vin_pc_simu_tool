@@ -3,7 +3,6 @@ VIN码转换工具
 
 工具说明：
 此工具用于方便转换生成VIN、VIN的十六进制格式、该VIN的OBD回复命令。  
-![Snipaste_2022-06-17_08-36-28](https://user-images.githubusercontent.com/49632322/174199853-8d7286ac-fced-4ae6-b5da-8cb8aa04628e.jpg)
 
 
 ### 使用方法：  
